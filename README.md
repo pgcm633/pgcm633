@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pgcm633
 - 👀 I’m interested in  obter experiência na area de desenvolvimento web.
-- 🌱 I’m currently learning  Java e HTML5
-- 💞️ I’m looking to collaborate on  projetos de desenvolvimento web
+- 🌱 I’m currently learning  Java e HTML5.
+- 💞️ I’m looking to collaborate  no desenvolvimento de projetos web.
 - 📫 How to reach me 
 
 <!---
